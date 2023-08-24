@@ -72,7 +72,7 @@ console.log(msg);
 //////////////////////////////////////////////////
 //Flow controle (if/else Statements)
 
-let age = 15;
+let age = 14;
 
 if(age > 18) {
     console.log(`You can get the driving lisance.`);
